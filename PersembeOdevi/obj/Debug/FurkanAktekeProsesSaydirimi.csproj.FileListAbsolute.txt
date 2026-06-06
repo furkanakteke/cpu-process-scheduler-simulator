@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\PersembeOdevi\PersembeOdevi\obj\Debug\FurkanAktekeProsesSaydirimi.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\PersembeOdevi\PersembeOdevi\obj\Debug\FurkanAktekeProsesSaydirimi.Form1.resources
+C:\Users\Furkan\source\repos\PersembeOdevi\PersembeOdevi\obj\Debug\PersembeOdevi.Properties.Resources.resources
+C:\Users\Furkan\source\repos\PersembeOdevi\PersembeOdevi\obj\Debug\FurkanAktekeProsesSaydirimi.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\PersembeOdevi\PersembeOdevi\obj\Debug\FurkanAktekeProsesSaydirimi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\PersembeOdevi\PersembeOdevi\obj\Debug\PersembeOdevi.exe
+C:\Users\Furkan\source\repos\PersembeOdevi\PersembeOdevi\obj\Debug\PersembeOdevi.pdb
